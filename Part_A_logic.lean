@@ -1,3 +1,9 @@
+-- 课程仓库
+-- https://github.com/ImperialCollegeLondon/formalising-mathematics
+
+-- 本答案
+-- https://github.com/LeyangGuo/Formalizing_Mathmetics_zh
+
 -- We import all of Lean's standard tactics
 import tactic
 
